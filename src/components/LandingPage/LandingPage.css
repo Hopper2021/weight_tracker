@@ -1,0 +1,13 @@
+.welcome-header {
+  text-align: left;
+ }
+
+ .welcome-text {
+  margin-bottom: 5rem
+ }
+
+ @media screen and (max-width: 375px) {
+    .welcome-header {
+      text-align: center;
+    }
+}

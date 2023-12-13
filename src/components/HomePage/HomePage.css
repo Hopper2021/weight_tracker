@@ -1,0 +1,10 @@
+.intro {
+    text-align: left;
+    /* margin-bottom: 1rem; */
+}
+li {
+    list-style-type: none;
+}
+.card {
+    padding: 20px;
+}
